@@ -1,5 +1,7 @@
 # Discord IPTV
 
+<img width="1353" height="1067" alt="Screenshot 2026-05-13 012216" src="https://github.com/user-attachments/assets/5d96cb0f-ac2a-4621-8d8e-f920a202ceca" />
+
 ## Overview
 
 Discord IPTV is a Discord Activity — an app that runs directly inside a Discord voice channel — that lets a group of people watch HLS/M3U8 streams together in sync.
