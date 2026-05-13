@@ -5,8 +5,8 @@ import Hls from "hls.js";
 import "./App.css";
 
 patchUrlMappings([
-  { prefix: "/socket", target: "pledge-andrew-flashers-president.trycloudflare.com" },
-  { prefix: "/proxy", target: "pledge-andrew-flashers-president.trycloudflare.com" },
+  { prefix: "/socket", target: "pickup-proxy-answer-cooler.trycloudflare.com" },
+  { prefix: "/proxy", target: "pickup-proxy-answer-cooler.trycloudflare.com" },
 ]);
 
 const discordSdk = new DiscordSDK(import.meta.env.VITE_CLIENT_ID);

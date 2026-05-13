@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: true,
-    allowedHosts: ['pledge-andrew-flashers-president.trycloudflare.com'],
+    allowedHosts: ['pickup-proxy-answer-cooler.trycloudflare.com'],
     proxy: {
       '/api': 'http://localhost:3000',
       '/socket.io': {
